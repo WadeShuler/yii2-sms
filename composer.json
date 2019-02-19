@@ -1,0 +1,24 @@
+{
+    "name": "wadeshuler/yii2-sms",
+    "description": "This is the base library for providing SMS support in your Yii2 application. You can make your own plugins for SMS providers off this base package. It is not to be directly used.",
+    "keywords": ["yii2", "sms", "yii2 sms", "text message"],
+    "homepage": "https://github.com/wadeshuler/yii2-sms",
+    "type": "yii2-extension",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Wade Shuler",
+            "email": "wadeshuler@users.noreply.github.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "php": ">=5.4.0",
+        "yiisoft/yii2": "~2.0.11"
+    },
+    "autoload": {
+        "psr-4": {
+            "wadeshuler\\sms\\": "src"
+        }
+    }
+}
