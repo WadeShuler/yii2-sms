@@ -95,4 +95,5 @@ I recommend you look at my [Yii2 SMS Twilio](https://github.com/wadeshuler/yii2-
 ## Donate
 
 Please consider donating if you find my code useful.
+
 [![PayPal Donate](https://i.ibb.co/YcM55mt/paypaldonate.png "Donate")](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=BEAUQFRMDPHT8&source=url)
